@@ -1,6 +1,4 @@
-- Hola, soy @aig-microC
-- Estoy interesado en Linux, RPi y microcontroladores tales como Arduino, pico y Esp32
-- Mi intención es escribir tutoriales o guías sobre los temas que me interesan y que te puedan interesar a ti.
+- Estoy interesado en Linux, RPi y microcontroladores tales como Arduino, pico y Esp32 y programación en varios lenguajes
 - https://github.com/aig-microC es la página principal con mis proyectos en *GITHUB*
 
 
